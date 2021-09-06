@@ -1,0 +1,82 @@
+h1 {
+  font-size: 20pt;
+  font-weight: 300;
+}
+.largest {
+  max-width: 600px;
+}
+.current {
+  position: relative;
+  bottom: 4px;
+}
+.date {
+  font-size: 10pt;
+  position: relative;
+  top: 12px;
+}
+.time {
+  font-size: 10pt;
+  position: relative;
+  top: 12px;
+}
+.main-weather-icon {
+  font-size: 32pt;
+  text-align: center;
+  position: relative;
+  left: 4pt;
+  bottom: 2pt;
+}
+.main-temp {
+  font-size: 36pt;
+  line-height: 1;
+  position: relative;
+  bottom: -24px;
+  left: -14pt;
+}
+.unit {
+  font-size: 10pt;
+  line-height: 1;
+  position: relative;
+  left: 57pt;
+  bottom: 33pt;
+}
+.weather-description {
+  font-size: 10pt;
+  position: relative;
+  left: 10pt;
+  bottom: -10pt;
+}
+.weather-details {
+  font-size: 10pt;
+  position: relative;
+  bottom: -10pt;
+}
+.right {
+  text-align: right;
+  position: relative;
+  right: 5pt;
+}
+.weather-icon {
+  font-size: 18pt;
+  display: block;
+  margin: 0 auto;
+}
+.forecast-day {
+  font-size: 10pt;
+  text-align: center;
+}
+.forecast-temperatures {
+  font-size: 8pt;
+  margin-bottom: 0;
+  text-align: center;
+}
+.forecast-temperature-min {
+  color: gray;
+  text-align: center;
+}
+.link-text {
+  font-size: 8pt;
+  position: relative;
+  left: 27px;
+  bottom: 20px;
+}
