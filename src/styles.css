@@ -3,7 +3,7 @@ h1 {
   font-weight: 300;
 }
 .largest {
-  max-width: 600px;
+  max-width: 535px;
 }
 .current {
   position: relative;
@@ -55,6 +55,10 @@ h1 {
   text-align: right;
   position: relative;
   right: 5pt;
+}
+.forecast {
+  display: flex;
+  margin: 0 auto;
 }
 .weather-icon {
   font-size: 18pt;
