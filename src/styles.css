@@ -1,13 +1,28 @@
 h1 {
   font-size: 20pt;
   font-weight: 300;
+  color: #6d6875;
+  font-weight: 300;
 }
 .largest {
   max-width: 535px;
+  background-color: #ffcdb2;
 }
-.current {
-  position: relative;
-  bottom: 4px;
+.border-4 {
+  border-color: #6d6875;
+}
+.search-bar:focus {
+  box-shadow: none;
+}
+.btn {
+  background-color: #e5989b;
+  border: #e5989b;
+  color: #fff;
+  box-shadow: none;
+}
+.btn:hover {
+  background-color: #b5838d;
+  box-shadow: none;
 }
 .date {
   font-size: 10pt;
